@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋 Web&Web&Web <img align="right" src="https://github-readme-stats.vercel.app/api?username=R3gr3t3&show_icons=true&theme=discord_old_blurple">
 
 <!--
 **R3gr3t3/R3gr3t3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
